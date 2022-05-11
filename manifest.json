@@ -2,8 +2,8 @@
     "charts": [
         {
             "chart": "nidhogg",
-            "digest": "af4901f2568b7ab123fafcd76ac4d6a99337e8f1be5dca24bf4fcd1280a054a4",
-            "version": "1.0.16"
+            "digest": "55319e55704353b2c5a5364fc1579ad9abbee165690744e82573d7d7b7177554",
+            "version": "v1.0.4"
         },
         {
             "chart": "lightvessel",
